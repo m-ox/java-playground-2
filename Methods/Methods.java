@@ -16,7 +16,7 @@ public class Methods {
     }
 
     public static void main(String[] args) {
-        // printFunc();
+        printFunc();
         String foodString = "plum";
         String foodString2 = "orange";
         feedMe(foodString, 1);
