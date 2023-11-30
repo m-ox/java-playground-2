@@ -1,3 +1,4 @@
+package Basics;
 public class Variables {
     public static void main(String[] args) {
         // Widening Casting (automatically) - converting a smaller type to a larger type size
