@@ -1,4 +1,4 @@
-package Methods;
+package Basics;
 
 public class Methods {
     public static void printFunc() {
