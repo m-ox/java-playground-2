@@ -1,12 +1,9 @@
 package Challenges;
 
 public class PlayingCat {
+    // laughs in leet golf code
     public static boolean isCatPlaying(boolean summer, int temperature) {
         int maxValue = summer ? 45 : 35;
-        if (temperature >= 25 && temperature <= maxValue) {
-            return true;
-        } else {
-            return false;
-        }
+        return temperature >= 25 && temperature <= maxValue;
     }
 }
